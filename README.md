@@ -2,7 +2,7 @@
 
 ![Flappy Bird Social Media Cover](https://github.com/BrosephB/Flappy-Bird/blob/main/social%20media%20cover.png)
 
-# Play it <a href="" target="_blank">here!</a>
+# Play it <a href="https://sepehrborji.github.io/Flappy-Bird/" target="_blank">here!</a>
 
 DISCLAIMER: I am not the creator of the original flappy bird, and this custom copy game I’ve created is not for commercial use, simply a person project to work on my game development skills
 
